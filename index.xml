@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>agustriono.pj@gmail.com (pj)</managingEditor>
     <webMaster>agustriono.pj@gmail.com (pj)</webMaster>
-    <lastBuildDate>Fri, 15 Feb 2019 09:43:23 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Feb 2019 15:33:58 +0700</lastBuildDate>
     
 	<atom:link href="https://agustrionopj.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Perjalanan (Part 1)</title>
+      <link>https://agustrionopj.github.io/blog/20190215-perjalanan-1/</link>
+      <pubDate>Fri, 15 Feb 2019 15:33:58 +0700</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/blog/20190215-perjalanan-1/</guid>
+      <description>catatan: merupakan tulisan ulang dari tulisan di website sebelumnya
+Setelah sekian lama saya tidak bepergian ke luar negeri, kesempatan itu kembali datang pada bulan Mei 2017. Pada saat itu saya berkesempatan mengikuti sebuah workshop pemrograman yang diadakan di Lorentz Center, Leiden, Belanda. Persiapan kepergian saya kali ini tidaklah seheboh yang sudah-sudah, entah karena sudah terbiasa (tidak ada maksud nyombong yak) atau mungkin saja karena saya sedang not in the mood untuk bepergian jauh.</description>
+    </item>
     
     <item>
       <title>Truth</title>
