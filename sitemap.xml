@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>https://agustrionopj.github.io/blog/</loc>
+    <lastmod>2019-02-15T09:43:23+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://agustrionopj.github.io/page/about/</loc>
   </url>
   
@@ -63,12 +68,13 @@
   </url>
   
   <url>
-    <loc>https://agustrionopj.github.io/tags/blog/</loc>
+    <loc>https://agustrionopj.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://agustrionopj.github.io/categories/</loc>
+    <loc>https://agustrionopj.github.io/tags/design/</loc>
+    <lastmod>2017-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -144,11 +150,6 @@
   </url>
   
   <url>
-    <loc>https://agustrionopj.github.io/tags/posts/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://agustrionopj.github.io/tags/pyraf/</loc>
     <lastmod>2017-10-20T10:23:15+07:00</lastmod>
     <priority>0</priority>
@@ -171,13 +172,14 @@
   </url>
   
   <url>
-    <loc>https://agustrionopj.github.io/blog/</loc>
-    <lastmod>2019-02-15T09:43:23+07:00</lastmod>
+    <loc>https://agustrionopj.github.io/tags/traveling/</loc>
+    <lastmod>2017-04-25T13:04:51+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://agustrionopj.github.io/tags/traveling/</loc>
-    <lastmod>2017-04-25T13:04:51+07:00</lastmod>
+    <loc>https://agustrionopj.github.io/tags/watermark/</loc>
+    <lastmod>2017-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
