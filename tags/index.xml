@@ -7,67 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>agustriono.pj@gmail.com (pj)</managingEditor>
     <webMaster>agustriono.pj@gmail.com (pj)</webMaster>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 12:10:22 +0700</lastBuildDate>
     
 	<atom:link href="https://agustrionopj.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Astronomi</title>
+      <title>astronomi</title>
       <link>https://agustrionopj.github.io/tags/astronomi/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 12:10:22 +0700</pubDate>
       <author>agustriono.pj@gmail.com (pj)</author>
       <guid>https://agustrionopj.github.io/tags/astronomi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Design</title>
-      <link>https://agustrionopj.github.io/tags/design/</link>
-      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      <title>python</title>
+      <link>https://agustrionopj.github.io/tags/python/</link>
+      <pubDate>Wed, 01 May 2019 12:10:22 +0700</pubDate>
       <author>agustriono.pj@gmail.com (pj)</author>
-      <guid>https://agustrionopj.github.io/tags/design/</guid>
+      <guid>https://agustrionopj.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Edukasi</title>
-      <link>https://agustrionopj.github.io/tags/edukasi/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <author>agustriono.pj@gmail.com (pj)</author>
-      <guid>https://agustrionopj.github.io/tags/edukasi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fotometri</title>
-      <link>https://agustrionopj.github.io/tags/fotometri/</link>
-      <pubDate>Fri, 20 Oct 2017 10:23:15 +0700</pubDate>
-      <author>agustriono.pj@gmail.com (pj)</author>
-      <guid>https://agustrionopj.github.io/tags/fotometri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game</title>
-      <link>https://agustrionopj.github.io/tags/game/</link>
-      <pubDate>Thu, 12 Oct 2017 13:13:54 +0700</pubDate>
-      <author>agustriono.pj@gmail.com (pj)</author>
-      <guid>https://agustrionopj.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Iraf</title>
-      <link>https://agustrionopj.github.io/tags/iraf/</link>
-      <pubDate>Fri, 20 Oct 2017 10:23:15 +0700</pubDate>
-      <author>agustriono.pj@gmail.com (pj)</author>
-      <guid>https://agustrionopj.github.io/tags/iraf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kontemplasi</title>
+      <title>kontemplasi</title>
       <link>https://agustrionopj.github.io/tags/kontemplasi/</link>
       <pubDate>Tue, 26 Feb 2019 07:27:30 +0700</pubDate>
       <author>agustriono.pj@gmail.com (pj)</author>
@@ -76,88 +40,7 @@
     </item>
     
     <item>
-      <title>Logo</title>
-      <link>https://agustrionopj.github.io/tags/logo/</link>
-      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
-      <author>agustriono.pj@gmail.com (pj)</author>
-      <guid>https://agustrionopj.github.io/tags/logo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ludovico Einaudi</title>
-      <link>https://agustrionopj.github.io/tags/ludovico-einaudi/</link>
-      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      <author>agustriono.pj@gmail.com (pj)</author>
-      <guid>https://agustrionopj.github.io/tags/ludovico-einaudi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Materi</title>
-      <link>https://agustrionopj.github.io/tags/materi/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <author>agustriono.pj@gmail.com (pj)</author>
-      <guid>https://agustrionopj.github.io/tags/materi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Olimpiade</title>
-      <link>https://agustrionopj.github.io/tags/olimpiade/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <author>agustriono.pj@gmail.com (pj)</author>
-      <guid>https://agustrionopj.github.io/tags/olimpiade/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Orbital Mechanic</title>
-      <link>https://agustrionopj.github.io/tags/orbital-mechanic/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <author>agustriono.pj@gmail.com (pj)</author>
-      <guid>https://agustrionopj.github.io/tags/orbital-mechanic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photography</title>
-      <link>https://agustrionopj.github.io/tags/photography/</link>
-      <pubDate>Sat, 16 Feb 2019 14:43:37 +0700</pubDate>
-      <author>agustriono.pj@gmail.com (pj)</author>
-      <guid>https://agustrionopj.github.io/tags/photography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Piano</title>
-      <link>https://agustrionopj.github.io/tags/piano/</link>
-      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      <author>agustriono.pj@gmail.com (pj)</author>
-      <guid>https://agustrionopj.github.io/tags/piano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pyraf</title>
-      <link>https://agustrionopj.github.io/tags/pyraf/</link>
-      <pubDate>Fri, 20 Oct 2017 10:23:15 +0700</pubDate>
-      <author>agustriono.pj@gmail.com (pj)</author>
-      <guid>https://agustrionopj.github.io/tags/pyraf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://agustrionopj.github.io/tags/python/</link>
-      <pubDate>Sat, 16 Feb 2019 14:43:37 +0700</pubDate>
-      <author>agustriono.pj@gmail.com (pj)</author>
-      <guid>https://agustrionopj.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Renungan</title>
+      <title>renungan</title>
       <link>https://agustrionopj.github.io/tags/renungan/</link>
       <pubDate>Tue, 26 Feb 2019 07:27:30 +0700</pubDate>
       <author>agustriono.pj@gmail.com (pj)</author>
@@ -166,7 +49,16 @@
     </item>
     
     <item>
-      <title>Traveling</title>
+      <title>photography</title>
+      <link>https://agustrionopj.github.io/tags/photography/</link>
+      <pubDate>Sat, 16 Feb 2019 14:43:37 +0700</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>traveling</title>
       <link>https://agustrionopj.github.io/tags/traveling/</link>
       <pubDate>Sat, 16 Feb 2019 14:43:37 +0700</pubDate>
       <author>agustriono.pj@gmail.com (pj)</author>
@@ -175,16 +67,7 @@
     </item>
     
     <item>
-      <title>Watermark</title>
-      <link>https://agustrionopj.github.io/tags/watermark/</link>
-      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
-      <author>agustriono.pj@gmail.com (pj)</author>
-      <guid>https://agustrionopj.github.io/tags/watermark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Work</title>
+      <title>work</title>
       <link>https://agustrionopj.github.io/tags/work/</link>
       <pubDate>Sat, 16 Feb 2019 14:43:37 +0700</pubDate>
       <author>agustriono.pj@gmail.com (pj)</author>
@@ -193,11 +76,128 @@
     </item>
     
     <item>
-      <title>Yann Tiersen</title>
+      <title>ludovico einaudi</title>
+      <link>https://agustrionopj.github.io/tags/ludovico-einaudi/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/tags/ludovico-einaudi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>piano</title>
+      <link>https://agustrionopj.github.io/tags/piano/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/tags/piano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yann tiersen</title>
       <link>https://agustrionopj.github.io/tags/yann-tiersen/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       <author>agustriono.pj@gmail.com (pj)</author>
       <guid>https://agustrionopj.github.io/tags/yann-tiersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edukasi</title>
+      <link>https://agustrionopj.github.io/tags/edukasi/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/tags/edukasi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>materi</title>
+      <link>https://agustrionopj.github.io/tags/materi/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/tags/materi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>olimpiade</title>
+      <link>https://agustrionopj.github.io/tags/olimpiade/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/tags/olimpiade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design</title>
+      <link>https://agustrionopj.github.io/tags/design/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logo</title>
+      <link>https://agustrionopj.github.io/tags/logo/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/tags/logo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>watermark</title>
+      <link>https://agustrionopj.github.io/tags/watermark/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/tags/watermark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>orbital mechanic</title>
+      <link>https://agustrionopj.github.io/tags/orbital-mechanic/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/tags/orbital-mechanic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fotometri</title>
+      <link>https://agustrionopj.github.io/tags/fotometri/</link>
+      <pubDate>Fri, 20 Oct 2017 10:23:15 +0700</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/tags/fotometri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iraf</title>
+      <link>https://agustrionopj.github.io/tags/iraf/</link>
+      <pubDate>Fri, 20 Oct 2017 10:23:15 +0700</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/tags/iraf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pyraf</title>
+      <link>https://agustrionopj.github.io/tags/pyraf/</link>
+      <pubDate>Fri, 20 Oct 2017 10:23:15 +0700</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/tags/pyraf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game</title>
+      <link>https://agustrionopj.github.io/tags/game/</link>
+      <pubDate>Thu, 12 Oct 2017 13:13:54 +0700</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/tags/game/</guid>
       <description></description>
     </item>
     

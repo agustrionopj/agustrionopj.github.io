@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>agustriono.pj@gmail.com (pj)</managingEditor>
     <webMaster>agustriono.pj@gmail.com (pj)</webMaster>
-    <lastBuildDate>Tue, 26 Feb 2019 07:27:30 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 12:10:22 +0700</lastBuildDate>
     
 	<atom:link href="https://agustrionopj.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Penentuan posisi obyek langit dengan Astroplan</title>
+      <link>https://agustrionopj.github.io/blog/astroplan/</link>
+      <pubDate>Wed, 01 May 2019 12:10:22 +0700</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/blog/astroplan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A vs. B</title>
