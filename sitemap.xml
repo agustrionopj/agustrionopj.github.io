@@ -4,25 +4,42 @@
   
   <url>
     <loc>https://agustrionopj.github.io/</loc>
-    <lastmod>2019-05-01T12:10:22+07:00</lastmod>
+    <lastmod>2019-05-29T12:10:22+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://agustrionopj.github.io/blog/</loc>
-    <lastmod>2019-05-01T12:10:22+07:00</lastmod>
+    <lastmod>2019-05-29T12:10:22+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://agustrionopj.github.io/blog/newpiano/</loc>
+    <lastmod>2019-05-29T12:10:22+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agustrionopj.github.io/tags/</loc>
+    <lastmod>2019-05-29T12:10:22+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://agustrionopj.github.io/tags/piano/</loc>
+    <lastmod>2019-05-29T12:10:22+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://agustrionopj.github.io/tags/yanni/</loc>
+    <lastmod>2019-05-29T12:10:22+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://agustrionopj.github.io/blog/astroplan/</loc>
     <lastmod>2019-05-01T12:10:22+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://agustrionopj.github.io/tags/</loc>
-    <lastmod>2019-05-01T12:10:22+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -99,12 +116,6 @@
   
   <url>
     <loc>https://agustrionopj.github.io/tags/ludovico-einaudi/</loc>
-    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://agustrionopj.github.io/tags/piano/</loc>
     <lastmod>2018-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>agustriono.pj@gmail.com (pj)</managingEditor>
     <webMaster>agustriono.pj@gmail.com (pj)</webMaster>
-    <lastBuildDate>Wed, 01 May 2019 12:10:22 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2019 12:10:22 +0700</lastBuildDate>
     
 	<atom:link href="https://agustrionopj.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Newest cover: Yanni - One Man&#39;s Dream</title>
+      <link>https://agustrionopj.github.io/blog/newpiano/</link>
+      <pubDate>Wed, 29 May 2019 12:10:22 +0700</pubDate>
+      <author>agustriono.pj@gmail.com (pj)</author>
+      <guid>https://agustrionopj.github.io/blog/newpiano/</guid>
+      <description> Enjoy!
+Yanni - One Man&amp;rsquo;s Dream   </description>
+    </item>
     
     <item>
       <title>Penentuan posisi obyek langit dengan Astroplan</title>
@@ -18,7 +28,8 @@
       <pubDate>Wed, 01 May 2019 12:10:22 +0700</pubDate>
       <author>agustriono.pj@gmail.com (pj)</author>
       <guid>https://agustrionopj.github.io/blog/astroplan/</guid>
-      <description></description>
+      <description>Dalam astronomi, perencanaan pengamatan adalah proses yang penting untuk mengetahui kemungkinan apakah benda langit yang akan kita amati benar-benar bisa diamati dari posisi kita dan pada rentang waktu yang kita rencanakan. Tool yang digunakan untuk merencanakan pengamatan sangatlah beragam, misalnya dengan program Astroplanner ataupun dengan program peta langit seperti Stellarium atau sejenisnya. Pada kesempatan ini, saya akan paparkan cara alternatif, yaitu menggunakan modul dalam python yaitu astroplan.
+Pertama, kita panggil dulu modul-modul pendukung yang digunakan.</description>
     </item>
     
     <item>

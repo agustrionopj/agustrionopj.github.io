@@ -18,7 +18,8 @@
       <pubDate>Wed, 01 May 2019 12:10:22 +0700</pubDate>
       <author>agustriono.pj@gmail.com (pj)</author>
       <guid>https://agustrionopj.github.io/blog/astroplan/</guid>
-      <description></description>
+      <description>Dalam astronomi, perencanaan pengamatan adalah proses yang penting untuk mengetahui kemungkinan apakah benda langit yang akan kita amati benar-benar bisa diamati dari posisi kita dan pada rentang waktu yang kita rencanakan. Tool yang digunakan untuk merencanakan pengamatan sangatlah beragam, misalnya dengan program Astroplanner ataupun dengan program peta langit seperti Stellarium atau sejenisnya. Pada kesempatan ini, saya akan paparkan cara alternatif, yaitu menggunakan modul dalam python yaitu astroplan.
+Pertama, kita panggil dulu modul-modul pendukung yang digunakan.</description>
     </item>
     
     <item>
